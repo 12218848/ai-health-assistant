@@ -1,4 +1,4 @@
-# AI Health Assistant Platform
+# MedAssist Healthcare Platform
 
 A comprehensive healthcare website connecting patients with doctors, featuring AI-powered symptom checking and integrated ChatGPT assistance.
 
@@ -13,7 +13,7 @@ A comprehensive healthcare website connecting patients with doctors, featuring A
 
 1. **Clone and Install**
    ```bash
-  git clone https://github.com/12218848/ai-health-assistant.git
+  git clone <repository-url>
   cd ai-health-assistant
   npm install
 
@@ -209,7 +209,7 @@ The app includes built-in configuration validation:
 ## 📞 Support
 
 For technical support or questions:
-- **Email**: support@ai-health-assistant.com
+- **Email**: support@medassist.com
 - **Phone**: +1 (555) 123-4567
 - **Emergency**: Call 911 for medical emergencies
 
@@ -232,4 +232,4 @@ For technical support or questions:
 
 ---
 
-*AI Health Assistant - Your Healthcare Companion* 🏥
+*MedAssist - Your Healthcare Companion* 🏥
